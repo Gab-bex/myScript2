@@ -1,0 +1,26 @@
+{
+  "name": "Charlie McGuire",
+  "age": 54,
+  "address": {
+    "street": "Imibe Way",
+    "city": "Samamidi",
+    "state": "SC",
+    "zip": "54035"
+  },
+  "contact": {
+    "phone": "(867) 345-7448",
+    "servicePhone": "800449488"
+  },
+  "birthday": "1989-01-21T02:38:51.041Z",
+  "ip": "227.216.156.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Cigen pabo macej saczub had dumam ti gelefci vawuz riw mehcaij ze nenalla wut ceszut kisbefac ako ca. Uf fudcum eze ce ucferrew gihic fonpufu zeb gute pe cohcu wenboraw met fis uvzob muwum witoh joatnos. Ekkapler ves ujouci himithu wekmuv wowef lazvaf one fewod ib iw vinvupmi bazhar ugo. Jaj huurupes pamu kokni noigo puk vup udko saejovuh jo wuf resuhec. Voted diweze pe rivheh del edibinoh du tibbetak uho irosa li acziip hapi esihakwo mun lo. Ru mintiglo luwlofat nujef laceznaz vanmo akaaco bev vusjag pe vil ca fi be buponbij serdewma vu paku.",
+    "bio": "Uf zol hecse vefilcop ga vuceoja eleamu pojib tomumve ope ih juz we. Rod lu visposopa bi eskehho kizibozo ot kuewi zevad ornal ti du. Tozli ri bakvo timvupi ojihe luco up vifeh wohtikho genta cudluva sim bifotli."
+  },
+  "apiKey": "05d1b9982f2f55e82736403dfc77f1062d4ea9e201df051ad2ec49fb03c5a70f",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
